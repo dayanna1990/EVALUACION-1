@@ -1,0 +1,78 @@
+body {
+    font-family: Comic Sans MS, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #080B0E;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+     color: #080B0E;
+     font-family: 'Castellar', sans-serif; 
+}
+
+.profile-section {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.profile-section img {
+    width: 100%;
+    max-width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.profile-section h2 {
+    color: #438BEE; 
+    font-family: 'Castellar', sans-serif;
+    margin-top: 0;
+}
+
+.profile-section p {
+    margin-bottom: 20px;
+}
+
+.profile-section ol {
+    list-style: none;
+    padding: 0;
+}
+
+.profile-section ol li {
+    margin-bottom: 5px;
+}
+
+.social-links {
+    margin-top: 20px;
+}
+
+.social-links p {
+    margin-bottom: 10px;
+}
+
+.social-links ul {
+    padding: 0;
+    list-style: none;
+}
+
+.social-links li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.social-links a {
+    color: #438BEE; 
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.social-links a:hover {
+    color: #0E080E;
+}
